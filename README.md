@@ -1,4 +1,4 @@
-# FinalProject-Gestion-des-pharmacies-gardes
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/462f0e87-717d-484e-b74d-1970b7d5996c)# FinalProject-Gestion-des-pharmacies-gardes
 L'objectif du projet de localisation des pharmacies est de développer une plateforme en ligne permettant aux utilisateurs de localiser aisément les pharmacies 
 en fonction de leur ville et de leur zone, tout en fournissant des informations sur les pharmacies de garde disponibles.
 # Base de donnes 
@@ -32,6 +32,8 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 ### modifier ville 
 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/6e80aab8-0c90-40fe-a28f-ac91442ea553)
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/96d7b2c6-75ff-43dd-b58f-753159dae1c6)
+
 
 
 ## Gestion des zones
@@ -65,6 +67,12 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/9d024b13-4e00-460d-8866-4ae11cb36143)
 
+
+### historique map 
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/07489125-069e-4349-a4eb-069e0695d190)
+
+
 ### vue map 
 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/05fae464-195a-47aa-b8dd-b5521d32b020)
@@ -79,30 +87,70 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 
 
 
-
-
-
-
-• Gestion des gardes
-
-• Afficher la liste des pharmacies
-
-• Validation des pharmacies 
-
-• Afficher l’historique des gardes d’une pharmacie
-
-• Statistiques : o Afficher le nombre de pharmacies par ville et zone
-
 # Pharmacien : 
-• Inscription
+## Inscription
 
-• Création des pharmacies
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/8fd2b0ca-434c-4e20-8114-fffe3366436e)
 
-• Visualiser l’état de la pharmacie
 
-• Mentionner une garde
 
-• Afficher l’historique des gardes de sa pharmacie
+
+## Création des pharmacies
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/637befe0-cafb-49f1-98a8-a8f950f70d08)
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/64aae9e7-7bea-48ed-bad7-674971232294)
+
+## Acceptation administrateur
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/d3437ec8-8ac5-4228-a9a3-30d5887e165a)
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/f9f0d1bc-d655-4b24-9211-d7767c6836a3)
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/3ffbc6d8-f867-4881-b12f-3329ca8751e9)
+
+
+## Affectation de garde
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/385304a8-8e2a-4449-98ee-e7b080141df2)
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/6da9179d-6c2f-4ea6-88a6-5159682605c6)
+
+
+## historique des gardes 
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/33be76f8-da6b-483f-b468-b7707b3edb05)
+
+
+## Maps des pharmacies 
+
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/076fd370-0320-410e-b254-18e149d6142b)
+
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/bf16fa18-d241-47b6-97b3-d0a7f5fc499a)
+
+
+# Espace client :
+
+## Statistique
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/f80e41ed-e826-430f-a254-45333ba9fef2)
+
+## Filtrage par maps 
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/49615cb8-efb8-4b5d-81f0-3efa91d9aa13)
+
+## espace pharmacies
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/b68e95e8-dd23-415d-b08f-c0a3b5321f25)
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/7a8da065-3dd4-4c33-822d-fc6a90daa249)
+
+## Pharmacies au cours de gardes 
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/34c9998d-3bee-44df-bb9d-536f5563c47c)
+
+
 # Technologie utiliser 
 • Java : Langage de programmation polyvalent et orienté objet.
 
