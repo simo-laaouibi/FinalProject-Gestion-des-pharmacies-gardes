@@ -24,7 +24,7 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 # Pharmacien : 
 • Inscription
 
-• Création de sa pharmacie
+• Création des pharmacies
 
 • Visualiser l’état de la pharmacie
 
@@ -47,6 +47,8 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 • Docker :  Plateforme de conteneurisation permettant de déployer des applications de manière portable et efficace.
 
 • Sonarcube :  Outil d'analyse statique du code source pour détecter les problèmes de qualité du code.
+
+• Spring-security : Module de sécurité pour les applications Java basées sur le framework Spring. Il gère l'authentification, l'autorisation et offre des fonctionnalités de protection contre les vulnérabilités web courantes
 
 # Image Docker :
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/3a2abe47-2af3-4185-92b6-938192292fdb)
