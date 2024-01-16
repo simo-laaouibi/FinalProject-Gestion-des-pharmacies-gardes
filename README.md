@@ -8,22 +8,38 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 
 # Administrateur : 
 • Gestion des villes
+
 • Gestion des zones
+
 • Gestion des gardes
+
 • Afficher la liste des pharmacies
-• Validation des pharmacies (Ajouter le champ etat dans pharmacie : etat = 0 : en attente de validation ; etat = 1 : validée ; etat = 2 : refusé)
+
+• Validation des pharmacies 
+
 • Afficher l’historique des gardes d’une pharmacie
+
 • Statistiques : o Afficher le nombre de pharmacies par ville et zone
+
 # Pharmacien : 
 • Inscription
+
 • Création de sa pharmacie
+
 • Visualiser l’état de la pharmacie
+
 • Mentionner une garde
+
 • Afficher l’historique des gardes de sa pharmacie
 # Technologie utiliser 
 • Java
+
 • Spring boot
+
 • hibernete
+
 • React js
+
 • Html/css
+
 • javaScript
