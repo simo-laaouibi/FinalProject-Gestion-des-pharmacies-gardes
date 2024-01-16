@@ -1,4 +1,4 @@
-![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/462f0e87-717d-484e-b74d-1970b7d5996c)# FinalProject-Gestion-des-pharmacies-gardes
+# FinalProject-Gestion-des-pharmacies-gardes
 L'objectif du projet de localisation des pharmacies est de développer une plateforme en ligne permettant aux utilisateurs de localiser aisément les pharmacies 
 en fonction de leur ville et de leur zone, tout en fournissant des informations sur les pharmacies de garde disponibles.
 # Base de donnes 
@@ -54,6 +54,9 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/de4ecbbd-1406-4541-9017-9c1b44ad00c5)
 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/3735dc2d-417d-4c52-8cac-0d36579c3a62)
+
+## afficher map 
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/462f0e87-717d-484e-b74d-1970b7d5996c)
 
 ## Espace pharmacie
 ### pharmacie en attente
