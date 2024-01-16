@@ -47,3 +47,11 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 • Docker :  Plateforme de conteneurisation permettant de déployer des applications de manière portable et efficace.
 
 • Sonarcube :  Outil d'analyse statique du code source pour détecter les problèmes de qualité du code.
+
+# Image Docker :
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/3a2abe47-2af3-4185-92b6-938192292fdb)
+
+# SonarCube 
+![Screenshot 2024-01-15 145219](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/2653ce89-1ed9-4fd4-a04c-97256678840b)
+
+
