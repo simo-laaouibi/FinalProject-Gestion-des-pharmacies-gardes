@@ -58,6 +58,14 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 ## afficher map 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/462f0e87-717d-484e-b74d-1970b7d5996c)
 
+## statistique
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/368f8f55-9598-4fae-8f40-902c207a5c5b)
+
+
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/9d0cf48e-09cd-4156-9567-7c31d480fc3f)
+
+
 ## Espace pharmacie
 ### pharmacie en attente
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/0e9a9a26-7ba0-4329-b14a-29da666bd1aa)
@@ -83,10 +91,6 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 ## Espace garde
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/b1579278-3acf-400f-a661-2d9884679dcf)
 
-
-## Statistique 
-
-![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/368f8f55-9598-4fae-8f40-902c207a5c5b)
 
 
 
