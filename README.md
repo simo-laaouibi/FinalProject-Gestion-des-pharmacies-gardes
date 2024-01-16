@@ -189,7 +189,6 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 • Spring-security : Module de sécurité pour les applications Java basées sur le framework Spring. Il gère l'authentification, l'autorisation et offre des fonctionnalités de protection contre les vulnérabilités web courantes
 
 
-# video demo
 
 
 
