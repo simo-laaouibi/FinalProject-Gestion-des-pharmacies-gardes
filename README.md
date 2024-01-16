@@ -153,6 +153,17 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 
 ![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/34c9998d-3bee-44df-bb9d-536f5563c47c)
 
+# Image Docker :
+![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/3a2abe47-2af3-4185-92b6-938192292fdb)
+
+# SonarCube 
+![Screenshot 2024-01-15 145219](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/2653ce89-1ed9-4fd4-a04c-97256678840b)
+
+![Capture](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/1b638525-cbc7-496b-9f2f-4399e9821e10)
+
+![Capsswture](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/622de40a-5190-4618-ab91-441bb5e1cf7b)
+
+![WhatsApp Image 2024-01-16 at 15 23 31](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/0bd71b00-5a92-47a5-8288-9308e35da377)
 
 # Technologie utiliser 
 • Java : Langage de programmation polyvalent et orienté objet.
@@ -172,18 +183,6 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 • Sonarcube :  Outil d'analyse statique du code source pour détecter les problèmes de qualité du code.
 
 • Spring-security : Module de sécurité pour les applications Java basées sur le framework Spring. Il gère l'authentification, l'autorisation et offre des fonctionnalités de protection contre les vulnérabilités web courantes
-
-# Image Docker :
-![image](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/3a2abe47-2af3-4185-92b6-938192292fdb)
-
-# SonarCube 
-![Screenshot 2024-01-15 145219](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/2653ce89-1ed9-4fd4-a04c-97256678840b)
-
-![Capture](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/1b638525-cbc7-496b-9f2f-4399e9821e10)
-
-![Capsswture](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/622de40a-5190-4618-ab91-441bb5e1cf7b)
-
-![WhatsApp Image 2024-01-16 at 15 23 31](https://github.com/simo-laaouibi/FinalProject-Gestion-des-pharmacies-gardes/assets/148088062/0bd71b00-5a92-47a5-8288-9308e35da377)
 
 
 
