@@ -32,14 +32,18 @@ en fonction de leur ville et de leur zone, tout en fournissant des informations 
 
 • Afficher l’historique des gardes de sa pharmacie
 # Technologie utiliser 
-• Java
+• Java : Langage de programmation polyvalent et orienté objet.
 
-• Spring boot
+• Spring boot : Cadre de développement facilitant la création d'applications Java, en mettant l'accent sur la simplicité.
 
-• hibernete
+• hibernete : Cadre de persistance facilitant l'interaction entre applications Java et bases de données relationnelles.
 
-• React js
+• React js :  Bibliothèque JavaScript pour la construction d'interfaces utilisateur interactives.
 
-• Html/css
+• Html/css : Langages de balisage et de style, respectivement, pour la création et la présentation de pages web.
 
-• javaScript
+• javaScript : Langage de programmation utilisé pour rendre les pages web interactives.
+
+• Docker :  Plateforme de conteneurisation permettant de déployer des applications de manière portable et efficace.
+
+• Sonarcube :  Outil d'analyse statique du code source pour détecter les problèmes de qualité du code.
